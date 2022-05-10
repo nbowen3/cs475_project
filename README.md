@@ -2,6 +2,8 @@
 Students:
 Nicholas Bowen, Susan Liu, Cecelia Shuai, Jacky Chen
 
+Link to performance sheet: https://docs.google.com/spreadsheets/d/1X-nTQbxYvv6v8T3O3YmgESnnZsjOA2H-/edit?usp=sharing&ouid=114424417712474397416&rtpof=true&sd=true
+
 Description:
 Stocks are a particularly volatile that are influenced by many different interacting things including public opinion, economics, and
 institutional factors. We want to investigate the linkage between public opinion and stock price to see whether public opinion has predictive
